@@ -1,2 +1,0 @@
-# UnityGamePADG
-Game kota bandung
